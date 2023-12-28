@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Ethical Hacker(kittu)</h2>
+<h2>Ethical hacker(kittu)</h2>
 </body>
 </html>
